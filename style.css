@@ -57,3 +57,98 @@
 .fa-lock{
     margin-top: 23px;
 }
+
+
+
+
+                /* ...................portfolio............................... */
+
+
+
+.img-fluid{
+    height:300px
+    
+
+}
+.portfolio{
+    height: 1100px;
+    width: 100%;
+    padding: 100px 0 50px;
+
+}
+.portfolio h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.card{
+    margin-top: 40px;
+}
+
+
+
+
+
+                                     /* ................ourteam................. */
+
+
+
+.ourteam{
+    height: 700px;
+    padding: 100px 0px 60px ;
+    width: 100%;
+}
+.ourteam  h1{
+    font-weight: bold;
+}
+.teamsetting{
+    margin-top: 70px;
+}
+
+
+/* ...................footer.................. */
+
+
+.footer{
+    height: 50px;
+
+}
+.footer h6{
+    line-height: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* ...................................Responsive ................................ */
+
+
+
+@media (min-width:992px){
+
+}
+@media (min-width:768px) and (max-width:991){
+
+}
+@media (min-width:575px) and (max-width:574){
+
+}
+@media (max-width:479){
+    .headerset h2{
+        font-size: 22px;
+    }
+    .headerset h1{
+        font-size: 42px;
+        font-weight: bold;
+    } 
+    .ourservices{
+       
+        height: 1200px;
+    }
+}
